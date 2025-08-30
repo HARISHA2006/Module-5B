@@ -30,7 +30,8 @@ df = pd.DataFrame(exam_data , index=labels)
 print(df)
 ```
 ## Output
-![Uploading 438798758-31afa41f-93f3-43c3-9eae-04e88d7d114b.png…]()
+
+<img width="749" height="359" alt="438798758-31afa41f-93f3-43c3-9eae-04e88d7d114b" src="https://github.com/user-attachments/assets/e3440167-4e96-4879-98bf-b3c33e2a13fb" />
 
 ## Result
 Thus, the Python program has been created and executed successfully to create a DataFrame using the given dictionary and index labels and displayed.
