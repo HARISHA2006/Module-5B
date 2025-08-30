@@ -25,7 +25,8 @@ print("Array after inserting column 2 on axis 1")
 print(np.insert(c,1,b,axis=1))
 ```
 ## Output
-![Uploading 438797958-a8806243-4231-42ae-9209-d830dd16924c.png…]()
+<img width="744" height="218" alt="438797958-a8806243-4231-42ae-9209-d830dd16924c" src="https://github.com/user-attachments/assets/03bdf412-acb9-423d-bcad-9e83d6b9db91" />
+
 
 ## Result
 Thus the python program for replacing column in numpy has been implemented and executed successfully.
